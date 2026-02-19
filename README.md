@@ -34,7 +34,9 @@
 
 ###
 
+<div align="center">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/refs/heads/main/public/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
