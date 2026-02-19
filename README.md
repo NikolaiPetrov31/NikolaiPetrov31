@@ -22,6 +22,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
 </div>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 <!--
 **NikolaiPetrov31/NikolaiPetrov31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
