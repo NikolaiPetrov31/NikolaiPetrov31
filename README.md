@@ -1,9 +1,10 @@
 
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/NikolaiPetrov31" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@NikolaiPetrov31-1a1f2e?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="https://www.instagram.com/_nikolai.petrov/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/@nikolai.petrov-1a1f2e?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</p>
+</p> -->
+<h2 align="left">👋 Hi, I’m Nikolai.</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
